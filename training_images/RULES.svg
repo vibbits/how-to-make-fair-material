@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.059944mm"
+   height="58.129982mm"
+   viewBox="0 0 50.059942 58.129982"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="locker_close.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2130767"
+     inkscape:cx="562.619"
+     inkscape:cy="501.20491"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-210.73161,-204.35202)">
+    <rect
+       style="fill:#faf4f6;fill-opacity:1;stroke:#000000;stroke-width:2.20138;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.99763;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect2674"
+       width="47.858559"
+       height="55.928604"
+       x="211.83231"
+       y="205.45271" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:23.8216px;font-family:Dense;-inkscape-font-specification:'Dense Bold';text-orientation:sideways;fill:#beaca6;fill-opacity:1;stroke:none;stroke-width:1.013;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.99763;paint-order:fill markers stroke;stop-color:#000000"
+       x="59.14122"
+       y="335.3338"
+       id="text4030"
+       transform="matrix(0.87639186,-0.51934143,0.50491693,0.84183314,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4028"
+         style="fill:#beaca6;fill-opacity:1;stroke:none;stroke-width:1.013;stroke-dasharray:none"
+         x="59.14122"
+         y="335.3338">RULES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:23.8216px;font-family:Dense;-inkscape-font-specification:'Dense Bold';text-orientation:sideways;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01289;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.99763;paint-order:fill markers stroke;stop-color:#000000"
+       x="60.242325"
+       y="336.38257"
+       id="text4111"
+       transform="matrix(0.87639186,-0.51934143,0.50491693,0.84183314,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4109"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01289;stroke-dasharray:none"
+         x="60.242325"
+         y="336.38257">RULES</tspan></text>
+  </g>
+</svg>

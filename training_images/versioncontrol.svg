@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="61.579918mm"
+   height="45.317474mm"
+   viewBox="0 0 61.579918 45.317474"
+   version="1.1"
+   id="svg7232"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7234"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs7229" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.326279,-93.186435)">
+    <g
+       id="g7935">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.14754;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect6262"
+         width="19.61721"
+         height="30.500732"
+         x="142.59212"
+         y="-25.137703"
+         transform="rotate(54.117844)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:15.2142px;font-family:Dense;-inkscape-font-specification:'Dense Bold';text-orientation:sideways;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141;stroke-linecap:round;stroke-opacity:0.99763;paint-order:markers fill stroke;stop-color:#000000"
+         x="165.88814"
+         y="-15.970324"
+         id="text7923"
+         transform="matrix(0.43292481,0.74578567,-1.0029121,0.58218544,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan7921"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141"
+           x="165.88814"
+           y="-15.970324">V3</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.14754;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect6266"
+         width="19.61721"
+         height="30.500732"
+         x="90.558617"
+         y="80.139893"
+         transform="rotate(9.3236204)" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.66774;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="ellipse6272"
+         cx="136.70358"
+         cy="74.741837"
+         rx="2.8314648"
+         ry="4.9794726"
+         transform="rotate(27.11193)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:15.2142px;font-family:Dense;-inkscape-font-specification:'Dense Bold';text-orientation:sideways;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141;stroke-linecap:round;stroke-opacity:0.99763;paint-order:markers fill stroke;stop-color:#000000"
+         x="118.55525"
+         y="78.079651"
+         id="text7919"
+         transform="matrix(0.83071367,0.23137624,-0.31114842,1.117121,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan7917"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141"
+           x="118.55525"
+           y="78.079651">V2</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.14754;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect6270"
+         width="19.61721"
+         height="30.500732"
+         x="-38.689011"
+         y="122.05096"
+         transform="rotate(-42.902623)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:15.2142px;font-family:Dense;-inkscape-font-specification:'Dense Bold';text-orientation:sideways;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141;stroke-linecap:round;stroke-opacity:0.99763;paint-order:markers fill stroke;stop-color:#000000"
+         x="-38.661644"
+         y="124.24131"
+         id="text7440"
+         transform="matrix(0.64592787,-0.57131195,0.76828465,0.86862609,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan7438"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.88141"
+           x="-38.661644"
+           y="124.24131">V1</tspan></text>
+    </g>
+  </g>
+</svg>

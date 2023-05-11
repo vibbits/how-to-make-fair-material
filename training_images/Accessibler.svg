@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.683655mm"
+   height="57.089703mm"
+   viewBox="0 0 69.683655 57.089703"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.80426,-40.68442)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.30683;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle5179"
+       cx="160.31313"
+       cy="56.363789"
+       r="11.766263"
+       inkscape:export-filename="boy_with_paper.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.14754;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect5960"
+       width="19.61721"
+       height="30.500732"
+       x="90.10936"
+       y="79.363037"
+       transform="rotate(-18.151854)" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0608;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 142.0888,75.383145 c -4.95163,5.386886 -1.98733,21.860586 -1.98733,21.860586 l 38.62865,-0.248409 c 0,0 1.58251,-16.534558 -3.60202,-21.736385 -3.94193,-3.955088 -10.93353,-2.814015 -16.51755,-2.793752 -5.59245,0.0203 -12.73711,-1.199361 -16.52175,2.91796 z"
+       id="path6130"
+       sodipodi:nodetypes="accaaa" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.66774;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path6118"
+       cx="71.678642"
+       cy="132.66573"
+       rx="2.8314648"
+       ry="4.9794726"
+       transform="rotate(-32.649709)" />
+  </g>
+</svg>
